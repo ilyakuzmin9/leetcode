@@ -71,6 +71,7 @@ class Solution:
 
 
 if __name__ == '__main__':
+
     nums1 = [1, 1, 2]
     nums2 = [1, 2, 3]
     k = 2
